@@ -1,0 +1,3 @@
+[org.gnome.gnome-flashback:Qtile-GNOME-Flashback]
+desktop=false
+root-background=true

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=qtile-gnome-flashback
+Comment=Full-featured, hackable tiling window manager
+Exec=qtile-gnome-flashback
+NoDisplay=true
+X-GNOME-WMName=qtile-gnome-flashback
+X-GNOME-Autostart-Phase=WindowManager
+X-GNOME-Provides=windowmanager
+X-GNOME-Autostart-Notify=false

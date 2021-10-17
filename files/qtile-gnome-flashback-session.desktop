@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=GNOME Flashback (Qtile)
+Comment=This session logs you into GNOME Flashback with Qtile
+Exec=qtile-gnome-flashback-session
+TryExec=qtile
+Type=Application
+DesktopNames=Qtile-GNOME-Flashback;GNOME-Flashback;GNOME;
